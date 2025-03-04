@@ -2,7 +2,7 @@
 
 <script>
  
-/*-------- Quiz Script ----*------*/
+/*-------- Quiz Script ----*------*/////
 	 
 	jQuery( function($) {
 		var resultOneCount = 0; var resultTwoCount = 0;
